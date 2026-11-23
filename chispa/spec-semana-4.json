@@ -1,0 +1,10 @@
+{"salida":"semana-4","piezas":[
+{"tipo":"post","foto":"fotos/ia-lectura-rayas.jpg","titulo":"Un rincón para quedarse.","sub":"Alfombras importadas","archivo":"1_lunes_post.jpg","size":104},
+{"tipo":"post","foto":"fotos/ia-oficina-gris.jpg","titulo":"Donde se trabaja mejor.","sub":"Alfombras importadas","archivo":"2_martes_post.jpg","size":104},
+{"tipo":"reel","foto":"fotos/ia-living-azul.jpg","titulo":"Los domingos se viven en el piso.","sub":"Manto Deco","segundos":8,"fx":0.55,"archivo":"3_miercoles_reel.mp4","size":112},
+{"tipo":"reel","foto":"fotos/ia-dormitorio-beige.jpg","titulo":"Pisar suave, empezar mejor.","sub":"Manto Deco","segundos":8,"fx":0.45,"archivo":"4_jueves_reel.mp4","size":112},
+{"tipo":"post","foto":"fotos/ia-lectura-rayas.jpg","titulo":"Un lugar para cada alfombra.","sub":"Deslizá","archivo":"5_viernes_carrusel_1.jpg","size":104},
+{"tipo":"post","foto":"fotos/ia-oficina-gris.jpg","titulo":"El escritorio.","sub":"","archivo":"5_viernes_carrusel_2.jpg","size":104},
+{"tipo":"post","foto":"fotos/ia-dormitorio-beige.jpg","titulo":"El dormitorio.","sub":"","archivo":"5_viernes_carrusel_3.jpg","size":104},
+{"tipo":"post","foto":"fotos/ia-living-azul.jpg","titulo":"El living. Escribinos por WhatsApp.","sub":"Link en bio","archivo":"5_viernes_carrusel_4.jpg","size":96}
+]}
