@@ -1,0 +1,134 @@
+{
+ "salida": "semana-7",
+ "piezas": [
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-vidriera-gris-noche.jpg",
+   "titulo": "Hasta la vidriera frena a mirarla.",
+   "sub": "",
+   "archivo": "s25_vidriera.jpg",
+   "size": 104
+  },
+  {
+   "tipo": "reel",
+   "foto": "fotos/n6-autito-nene-rayas.jpg",
+   "titulo": "Desde abajo se ve todo distinto.",
+   "sub": "",
+   "archivo": "r25_autito.mp4",
+   "segundos": 8,
+   "fx": 0.6
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-dormitorio-rosa-min.jpg",
+   "titulo": "El primer paso del día, resuelto.",
+   "sub": "",
+   "archivo": "p26_dormitorio.jpg",
+   "size": 92
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-gato-caja-rayas.jpg",
+   "titulo": "Llegó la alfombra. El gato llegó primero.",
+   "sub": "",
+   "archivo": "s26_gato_caja.jpg",
+   "size": 104,
+   "fx": 0.5
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-robot-gato-gris.jpg",
+   "titulo": "Plot twist: ganó la alfombra.",
+   "sub": "",
+   "archivo": "s28_robot.jpg",
+   "size": 110,
+   "fx": 0.55
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-ventanal-beige-noche.jpg",
+   "titulo": "Se ve desde la vereda.",
+   "sub": "",
+   "archivo": "p28_ventanal.jpg",
+   "size": 96
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-revista-dos-alfombras.jpg",
+   "titulo": "¿Cuál elegís? Nosotros, las dos.",
+   "sub": "",
+   "archivo": "p29_revista.jpg",
+   "size": 82
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-fuerte-lluvia-rayas.jpg",
+   "titulo": "Plan de lluvia: fuerte y alfombra.",
+   "sub": "",
+   "archivo": "s29_fuerte.jpg",
+   "size": 108,
+   "fx": 0.45
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-metro-zapatillas-gris.jpg",
+   "titulo": "Medimos dos veces. Pisamos una.",
+   "sub": "",
+   "archivo": "s30_metro.jpg",
+   "size": 108,
+   "fx": 0.4
+  },
+  {
+   "tipo": "reel",
+   "foto": "fotos/n6-vidriera-gris-noche.jpg",
+   "titulo": "Se frena hasta el que pasa apurado.",
+   "sub": "",
+   "archivo": "r30_vidriera.mp4",
+   "segundos": 8,
+   "fx": 0.5
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-living-silla-rayas.jpg",
+   "titulo": "Sombras de ventana, alfombra de fondo.",
+   "sub": "",
+   "archivo": "p30_silla.jpg",
+   "size": 92
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-dormitorio-maleta-gris.jpg",
+   "titulo": "Valija abierta, alfombra lista.",
+   "sub": "",
+   "archivo": "s7d_maleta.jpg",
+   "size": 108,
+   "fx": 0.4
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-gato-siesta-beige.jpg",
+   "titulo": "Siesta con sol y trama.",
+   "sub": "",
+   "archivo": "s9d_gato.jpg",
+   "size": 116,
+   "fx": 0.35
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-mudanza-empanadas-gris.jpg",
+   "titulo": "Mudanza: empanadas en el piso.",
+   "sub": "",
+   "archivo": "s11d_mudanza.jpg",
+   "size": 108,
+   "fx": 0.5
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-vidriera-sillon-beige.jpg",
+   "titulo": "Un rincón para quedarse.",
+   "sub": "",
+   "archivo": "p7d_sillon.jpg",
+   "size": 96
+  }
+ ]
+}
