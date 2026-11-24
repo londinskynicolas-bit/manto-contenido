@@ -1,0 +1,84 @@
+{
+ "salida": "semana-6",
+ "piezas": [
+  {
+   "tipo": "post",
+   "foto": "fotos/ia-real-rosa-lectura.png",
+   "titulo": "Pisos aptos para cuentos.",
+   "sub": "",
+   "archivo": "1_rosa_post.jpg",
+   "size": 96,
+   "fy": 0.5
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/ia-real-rosa-lectura.png",
+   "titulo": "Tu living, con permiso de los juguetes.",
+   "sub": "",
+   "archivo": "2_rosa_story.jpg",
+   "size": 110,
+   "fx": 0.55
+  },
+  {
+   "tipo": "reel",
+   "foto": "fotos/ia-real-rosa-lectura.png",
+   "titulo": "Hoy el living es de ella.",
+   "sub": "",
+   "archivo": "3_rosa_reel.mp4",
+   "segundos": 8,
+   "fx": 0.55
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/ia-real-bebe-gris.png",
+   "titulo": "Aprobada por el que gatea.",
+   "sub": "",
+   "archivo": "4_bebe_post.jpg",
+   "size": 96
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/ia-real-bebe-gris.png",
+   "titulo": "Suave para las rodillas más chiquitas.",
+   "sub": "",
+   "archivo": "5_bebe_story.jpg",
+   "size": 110,
+   "fx": 0.45
+  },
+  {
+   "tipo": "reel",
+   "foto": "fotos/ia-real-bebe-gris.png",
+   "titulo": "Gateó directo a la alfombra.",
+   "sub": "",
+   "archivo": "6_bebe_reel.mp4",
+   "segundos": 8,
+   "fx": 0.45
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/ia-real-azul-trabajo.png",
+   "titulo": "Home office: ascendió al piso.",
+   "sub": "",
+   "archivo": "7_azul_post.jpg",
+   "size": 96
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/ia-real-azul-trabajo.png",
+   "titulo": "Reunión a las 10. Gato a las 10:05.",
+   "sub": "",
+   "archivo": "8_azul_story.jpg",
+   "size": 110,
+   "fx": 0.62
+  },
+  {
+   "tipo": "reel",
+   "foto": "fotos/ia-real-azul-trabajo.png",
+   "titulo": "Equipo de trabajo: él, el gato y la alfombra.",
+   "sub": "",
+   "archivo": "9_azul_reel.mp4",
+   "segundos": 8,
+   "fx": 0.62
+  }
+ ]
+}
