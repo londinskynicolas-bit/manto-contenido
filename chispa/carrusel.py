@@ -22,7 +22,7 @@ def slide(n,kicker,titulo,cuerpo,foto,out,fx=.5,fy=.5):
         im.paste(cover(Image.open(foto).convert('RGB'),W-160,ph,fx,fy),(80,ph_y))
     im.save(out,quality=93)
 S=[(0,'Guía rápida','5 errores al elegir tu alfombra','Y cómo evitarlos.','fotos/n6-living-silla-rayas.jpg',.5,.5),
-(1,'Error 1','Que sea muy chica.','Si flota en el medio, el living se ve más chico. Que al menos las patas delanteras del sillón queden sobre ella.','fotos/n6-vidriera-sillon-beige.jpg',.5,.5),
+(1,'Error 1','Que sea muy chica.','Si flota en el medio, el living se ve más chico. Con 200 × 300 cm, las patas delanteras del sillón quedan sobre ella. Para espacios chicos, 160 × 230 cm.','fotos/n6-vidriera-sillon-beige.jpg',.5,.5),
 (2,'Error 2','Elegir solo por la foto.','La luz cambia el color. Mirala de día y de noche en tu ambiente antes de decidir.','fotos/ia-living-azul.jpg',.5,.5),
 (3,'Error 3','No pensar en el uso.','Con chicos o mascotas, pensá en una trama fácil de limpiar. La alfombra se vive, no se mira.','fotos/n6-autito-nene-rayas.jpg',.5,.55),
 (4,'Error 4','Tapar todo el piso.','Dejá un borde de piso a la vista: ordena el espacio y la alfombra se luce más.','fotos/n6-dormitorio-rosa-min.jpg',.5,.5),
