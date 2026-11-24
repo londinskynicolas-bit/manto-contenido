@@ -1,0 +1,85 @@
+{
+ "salida": "nuevos/posts",
+ "piezas": [
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-autito-nene-rayas.jpg",
+   "titulo": "Desde acá abajo, todo se ve mejor.",
+   "sub": "",
+   "archivo": "t01.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-vidriera-sillon-beige.jpg",
+   "titulo": "Una alfombra, otro living.",
+   "sub": "",
+   "archivo": "t02.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/ia-real-azul-trabajo.png",
+   "titulo": "Home office con los pies abrigados.",
+   "sub": "",
+   "archivo": "t03.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-dormitorio-rosa-min.jpg",
+   "titulo": "Empezar el día pisando suave.",
+   "sub": "",
+   "archivo": "t04.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-gato-siesta-beige.jpg",
+   "titulo": "El gato ya eligió. Nosotros, el diseño.",
+   "sub": "",
+   "archivo": "t05.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-dormitorio-maleta-gris.jpg",
+   "titulo": "Llegaste de viaje. La alfombra, también.",
+   "sub": "",
+   "archivo": "t06.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-vidriera-gris-noche.jpg",
+   "titulo": "Hasta la vidriera frena a mirarla.",
+   "sub": "",
+   "archivo": "t07.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/ia-real-rosa-lectura.png",
+   "titulo": "Cuento, osito y una alfombra de testigo.",
+   "sub": "",
+   "archivo": "t08.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-living-silla-rayas.jpg",
+   "titulo": "Luz de tarde y piso con carácter.",
+   "sub": "",
+   "archivo": "t09.jpg",
+   "size": 88
+  },
+  {
+   "tipo": "post",
+   "foto": "fotos/n6-ventanal-beige-noche.jpg",
+   "titulo": "De noche, la alfombra se lleva la escena.",
+   "sub": "",
+   "archivo": "t10.jpg",
+   "size": 88
+  }
+ ]
+}
