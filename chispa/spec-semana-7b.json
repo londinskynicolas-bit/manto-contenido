@@ -1,0 +1,23 @@
+{
+ "salida": "semana-7",
+ "piezas": [
+  {
+   "tipo": "story",
+   "foto": "fotos/n6-ventanal-beige-noche.jpg",
+   "titulo": "Se ve desde la vereda.",
+   "sub": "",
+   "archivo": "s28_ventanal.jpg",
+   "size": 116,
+   "fx": 0.5
+  },
+  {
+   "tipo": "story",
+   "foto": "fotos/ia-picnic-cenital.png",
+   "titulo": "Picnic en el living. Sin hormigas.",
+   "sub": "",
+   "archivo": "s29_picnic.jpg",
+   "size": 108,
+   "fx": 0.5
+  }
+ ]
+}
